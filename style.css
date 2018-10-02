@@ -1,0 +1,27 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 164, 194);    /* Light gray */
+    font-size: 18px;
+    text-align: center;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+  p {
+    text-align: center;
+  }
